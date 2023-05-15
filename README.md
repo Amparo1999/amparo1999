@@ -1,16 +1,52 @@
-### Hi there 👋
+# Hi there 👋
+# Somos el grupo 8 !
 
-<!--
-**Amparo1999/amparo1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Itbalogo](https://github.com/Amparo1999/amparo1999/assets/116674796/cf4e4554-7b48-479c-b610-58ebedaf4f4c )
+(https://github.com/Amparo1999/amparo1999/assets/116674796/cf4e4554-7b48-479c-b610-58ebedaf4f4c )
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Módulos utilizados 
+
+* APIGW 
+
+*  CDN 
+
+* LAMBDA 
+
+* S3 
+
+* VPC 
+
+
+# Componentes (lo que esta dentro de cada carpeta de los módulos)
+
+1.api.gw
+
+2.Lambda
+
+3.Bucket
+
+4.Segurity group
+
+5.I am role 
+
+6. Cloud front 
+
+7. S3
+
+8.CDN 
+
+# Funciones 
+
+*I AM*: 
+*Lambda*: .
+*Amazon Cloudfront*: 
+
+
+
+# Arquitectura 
+
+![Foto de la aquitectura](https://github.com/Amparo1999/amparo1999/assets/116674796/747feeef-d7b9-4051-81d4-a1762bf6c060)
+
+
